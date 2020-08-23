@@ -10,7 +10,7 @@
 
 
 
-**Connect with Me:**
+**📫 Connect with Me:**
 
 <!-- Github  -->
 [<img align="left" title="Github" alt="Raman | Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -29,6 +29,8 @@
 **About me:**
 
 - Hey there, I am **Raman Preet Singh**, a student of the National Insitute of Technology, Hamirpur, :india: India.
+
+- 😄 *Pronouns:* He / His
 
 - I am a self-taught learner and a team player.
 
@@ -95,25 +97,27 @@
 <details>
     <summary> :zap: <b>Github Stats</b> </summary>
 
-<img align="center" alt="Raman08's Github Stats" src="https://github-readme-stats.raman08.vercel.app/api?username=raman08&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="center" alt="Raman08's Github Stats" src="https://github-readme-stats.raman08.vercel.app/api?username=raman08&&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&show_owner=true" />
+
+</br>
 
 <img align="center" alt="Raman08's Top Language" src="https://github-readme-stats.raman08.vercel.app/api/top-langs/?username=raman08&layout=compact&theme=tokyonight" />
 
-<!--START_SECTION:waka-->
-<<<<<<< HEAD
+</br>
+</br>
 
-=======
-```text
-Markdown              17 mins         ██████████████▓░░░░░░░░░░   58.96 % 
-Sublime Text Config   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 % 
-YAML                  3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-```
->>>>>>> bedb385ec5a7d7311a226eaf2d9c2d9963cfcebf
-<!--END_SECTION:waka-->
 
 </details>
 
+<details>
+    <summary> :zap: <b>More About Me</b> </summary>
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</details>
 
 
 [mail]: mailto:ramanpre0810@gmail.com
