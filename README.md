@@ -96,6 +96,8 @@
 <details>
   <summary>:zap: <b> Recent Github Activity </b></summary>
 
+</br>
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#937](https://github.com//JonathanGin52/JonathanGin52/issues/937) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
 2. ❗️ Opened issue [#82](https://github.com//anmol098/waka-readme-stats/issues/82) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
@@ -110,9 +112,9 @@
 <details>
     <summary> :zap: <b>Github Stats</b> </summary>
 
-<img align="center" alt="Raman08's Github Stats" src="https://github-readme-stats.raman08.vercel.app/api?username=raman08&&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&show_owner=true" />
-
 </br>
+
+<img align="center" alt="Raman08's Github Stats" src="https://github-readme-stats.raman08.vercel.app/api?username=raman08&&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&show_owner=true" />
 
 <img align="center" alt="Raman08's Top Language" src="https://github-readme-stats.raman08.vercel.app/api/top-langs/?username=raman08&layout=compact&theme=tokyonight" />
 
@@ -125,6 +127,7 @@
 <details>
     <summary> :zap: <b>More About Me</b> </summary>
 
+</br>
 
 <!--START_SECTION:waka-->
 ```text
