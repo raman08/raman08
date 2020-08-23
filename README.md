@@ -5,11 +5,7 @@
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
 [![GitHub followers](https://img.shields.io/github/followers/raman08?label=Follow&style=social)](https://github.com/raman08/?tab=follow) <!-- No. of followers -->
 
-
-
-
-
-
+</br>
 
 **📫 Connect with Me:**
 
@@ -24,20 +20,15 @@
 
 
 <!-- **My Current Spotify Music** -->
-[<img  align="right" width="200px" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />](https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu)
+[<img  align="right" width="200px" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
 
 </br>
+</br>
+</br>
 
-</br>
-</br>
 <!-- Furry Cat -->
 [<img align="Right" width="250px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />][github]
 
-</br>
-</br>
-</br>
-</br>
-</br>
 
 **About me:**
 
@@ -73,6 +64,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+
 
 **Competitive Programming Profile**
 
@@ -147,9 +139,7 @@ YAML                  3 mins          ███░░░░░░░░░░░
 
 </details>
 
-
-
-
+<!-- Alisses -->
 [mail]: mailto:ramanpre0810@gmail.com
 [twitter]: https://twitter.com/RamanPr24209812
 [instagram]: https://www.instagram.com/ramanpreet_boss/
@@ -160,6 +150,10 @@ YAML                  3 mins          ███░░░░░░░░░░░
 [codeforces]: http://codeforces.com/profile/raman08
 [codechef]: https://www.codechef.com/users/raman08
 [coursera]: https://www.coursera.org/user/c80cda9e74687f96f4db052554459549
+
+[spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
+
+
 
 <!---
 
@@ -175,4 +169,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
