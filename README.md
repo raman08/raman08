@@ -106,6 +106,8 @@
 5. ❗️ Opened issue [#217](https://github.com//benjaminsampica/benjaminsampica/issues/217) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
+</br>
+</br>
 
 </details>
 
@@ -139,7 +141,8 @@ YAML                  3 mins          ███░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
+</br>
+</br>
 
 </details>
 
