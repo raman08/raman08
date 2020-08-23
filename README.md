@@ -18,8 +18,11 @@
 [<img align="left" title="Twitter" alt="Raman | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- Instagram -->
 [<img align="left" title="Instagram" alt="Raman | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
 <!-- **My Current Spotify Music** -->
-[<img  align="right" width="200px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
+[<img  align="right" width="250px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
 
 </br>
 </br>
@@ -152,6 +155,7 @@ YAML                  3 mins          ███░░░░░░░░░░░
 </br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+
 
 
 <!---
