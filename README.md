@@ -107,7 +107,6 @@
 <!--END_SECTION:activity-->
 
 </br>
-</br>
 
 </details>
 
@@ -121,10 +120,9 @@
 <img align="center" alt="Raman08's Top Language" src="https://github-readme-stats.raman08.vercel.app/api/top-langs/?username=raman08&layout=compact&theme=tokyonight" />
 
 </br>
-</br>
-
 
 </details>
+
 
 <details>
     <summary> :zap: <b>More About Me</b> </summary>
@@ -142,9 +140,13 @@ YAML                  3 mins          ███░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </br>
-</br>
 
 </details>
+
+</br>
+
+<!-- End Point -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 <!-- Alisses -->
 [mail]: mailto:ramanpre0810@gmail.com
@@ -161,9 +163,7 @@ YAML                  3 mins          ███░░░░░░░░░░░
 [spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
 
 </br>
-</br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 
 
