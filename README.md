@@ -100,7 +100,15 @@
 <img align="center" alt="Raman08's Top Language" src="https://github-readme-stats.raman08.vercel.app/api/top-langs/?username=raman08&layout=compact&theme=tokyonight" />
 
 <!--START_SECTION:waka-->
+<<<<<<< HEAD
 
+=======
+```text
+Markdown              17 mins         ██████████████▓░░░░░░░░░░   58.96 % 
+Sublime Text Config   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 % 
+YAML                  3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+```
+>>>>>>> bedb385ec5a7d7311a226eaf2d9c2d9963cfcebf
 <!--END_SECTION:waka-->
 
 </details>
