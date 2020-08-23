@@ -16,4 +16,5 @@ jobs:
           SHOW_TITLE: true
           COMMIT_MESSAGE: Updated With WakaTime
           SHOW_LINES_OF_CODE: "True"
-
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
