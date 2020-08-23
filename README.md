@@ -5,8 +5,9 @@
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
 [![GitHub followers](https://img.shields.io/github/followers/raman08?label=Follow&style=social)](https://github.com/raman08/?tab=follow) <!-- No. of followers -->
 
-<!-- Furry Cat -->
-[<img align="Right" width="260px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />][github]
+
+
+
 
 
 
@@ -21,10 +22,22 @@
 <!-- Instagram -->
 [<img align="left" title="Instagram" alt="Raman | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</br>
-</br>
+
+<!-- **My Current Spotify Music** -->
+[<img  align="right" width="200px" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />](https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu)
+
 </br>
 
+</br>
+</br>
+<!-- Furry Cat -->
+[<img align="Right" width="250px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />][github]
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 **About me:**
 
@@ -83,6 +96,10 @@
 </br>
 </br>
 
+
+
+</br>
+
 <details>
   <summary>:zap: <b> Recent Github Activity </b></summary>
 
@@ -120,13 +137,17 @@
 ```text
 Week: 15 August, 2020 - 22 August, 2020
 
-Markdown              17 mins         ██████████████▓░░░░░░░░░░   58.96 % 
-Sublime Text Config   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 % 
-YAML                  3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown              17 mins         ██████████████▓░░░░░░░░░░   58.96 %
+Sublime Text Config   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+YAML                  3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
 ```
 <!--END_SECTION:waka-->
 
+
+
 </details>
+
+
 
 
 [mail]: mailto:ramanpre0810@gmail.com
