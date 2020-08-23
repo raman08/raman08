@@ -87,6 +87,12 @@
   <summary>:zap: <b> Recent Github Activity </b></summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#252](https://github.com//JessicaLim8/JessicaLim8/issues/252) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+2. ❗️ Opened issue [#251](https://github.com//JessicaLim8/JessicaLim8/issues/251) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+3. ❗️ Opened issue [#217](https://github.com//benjaminsampica/benjaminsampica/issues/217) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#4576](https://github.com//timburgan/timburgan/issues/4576) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+5. 🎉 Merged PR [#10](https://github.com//raman08/Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/10) in [raman08/Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
+<!--END_SECTION:activity-->
 
 
 </details>
