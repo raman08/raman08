@@ -1,9 +1,10 @@
 ## Hello there, fellow \<coders/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
 <!-- Visitor badge -->
 [![Visits Badge](https://badges.pufler.dev/visits/raman08/raman08)](https://badges.pufler.dev/visits/raman08/raman08)
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
-[![GitHub followers](https://img.shields.io/github/followers/raman08?label=Follow&style=social)](https://github.com/raman08/?tab=follow) <!-- No. of followers -->
+[![GitHub followers](https://img.shields.io/github/followers/raman08?label=Followers&style=social)](https://github.com/raman08/?tab=follow) <!-- No. of followers -->
 
 </br>
 
@@ -17,10 +18,8 @@
 [<img align="left" title="Twitter" alt="Raman | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- Instagram -->
 [<img align="left" title="Instagram" alt="Raman | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 <!-- **My Current Spotify Music** -->
-[<img  align="right" width="200px" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
+[<img  align="right" width="200px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
 
 </br>
 </br>
@@ -51,6 +50,7 @@
 
 - I currently use [**sublime**](https://www.sublimetext.com/) and [**vscode**](https://code.visualstudio.com/) as my text editores and [**pop-os**](https://pop.system76.com/) as my workstaton.
 
+---
 
 **Languages I have used**
 
@@ -83,14 +83,9 @@
 <!-- CodeChef -->
 [<img align="left" title='Codechef' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 
-
-</br>
-</br>
 </br>
 
-
-
-</br>
+---
 
 <details>
   <summary>:zap: <b> Recent Github Activity </b></summary>
@@ -153,6 +148,10 @@ YAML                  3 mins          ███░░░░░░░░░░░
 
 [spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
 
+</br>
+</br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 
 <!---
