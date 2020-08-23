@@ -88,7 +88,6 @@
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 </details>
 
@@ -117,9 +116,9 @@
 ```text
 Week: 15 August, 2020 - 22 August, 2020
 
-Markdown              17 mins         ██████████████▓░░░░░░░░░░   58.96 % 
-Sublime Text Config   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 % 
-YAML                  3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown              17 mins         ██████████████▓░░░░░░░░░░   58.96 %
+Sublime Text Config   8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+YAML                  3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
 ```
 <!--END_SECTION:waka-->
 
