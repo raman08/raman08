@@ -99,11 +99,11 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4675](https://github.com//timburgan/timburgan/issues/4675) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2. ❗️ Opened issue [#937](https://github.com//JonathanGin52/JonathanGin52/issues/937) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
-3. ❗️ Opened issue [#82](https://github.com//anmol098/waka-readme-stats/issues/82) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-4. ❗️ Opened issue [#252](https://github.com//JessicaLim8/JessicaLim8/issues/252) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
-5. ❗️ Opened issue [#251](https://github.com//JessicaLim8/JessicaLim8/issues/251) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
+1. 💪 Opened PR [#31](https://github.com//cs109/2015/pull/31) in [cs109/2015](https://github.com//cs109/2015)
+2. ❗️ Opened issue [#4675](https://github.com//timburgan/timburgan/issues/4675) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+3. ❗️ Opened issue [#937](https://github.com//JonathanGin52/JonathanGin52/issues/937) in [JonathanGin52/JonathanGin52](https://github.com//JonathanGin52/JonathanGin52)
+4. ❗️ Opened issue [#82](https://github.com//anmol098/waka-readme-stats/issues/82) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+5. ❗️ Opened issue [#252](https://github.com//JessicaLim8/JessicaLim8/issues/252) in [JessicaLim8/JessicaLim8](https://github.com//JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 </br>
