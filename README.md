@@ -99,11 +99,11 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//SaxenaKartik/password_validate/pull/1) in [SaxenaKartik/password_validate](https://github.com//SaxenaKartik/password_validate)
-2. ❌ Closed PR [#12](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/12) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
-3. 🎉 Merged PR [#11](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/11) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
-4. 💪 Opened PR [#31](https://github.com//cs109/2015/pull/31) in [cs109/2015](https://github.com//cs109/2015)
-5. ❗️ Opened issue [#4675](https://github.com//timburgan/timburgan/issues/4675) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+1. 🎉 Merged PR [#13](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/13) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
+2. 💪 Opened PR [#13](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/13) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
+3. 💪 Opened PR [#1](https://github.com//SaxenaKartik/password_validate/pull/1) in [SaxenaKartik/password_validate](https://github.com//SaxenaKartik/password_validate)
+4. ❌ Closed PR [#12](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/12) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
+5. 🎉 Merged PR [#11](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/11) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
 <!--END_SECTION:activity-->
 
 </br>
