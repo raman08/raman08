@@ -99,11 +99,11 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/13) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
-2. 💪 Opened PR [#13](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/13) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
-3. 💪 Opened PR [#1](https://github.com//SaxenaKartik/password_validate/pull/1) in [SaxenaKartik/password_validate](https://github.com//SaxenaKartik/password_validate)
-4. ❌ Closed PR [#12](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/12) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
-5. 🎉 Merged PR [#11](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/11) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
+1. 💪 Opened PR [#30067](https://github.com//firstcontributions/first-contributions/pull/30067) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+2. ❌ Closed PR [#30066](https://github.com//firstcontributions/first-contributions/pull/30066) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+3. 💪 Opened PR [#30066](https://github.com//firstcontributions/first-contributions/pull/30066) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+4. 🗣 Commented on [#29775](https://github.com//firstcontributions/first-contributions/issues/29775) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+5. 🎉 Merged PR [#13](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/13) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
 <!--END_SECTION:activity-->
 
 </br>
