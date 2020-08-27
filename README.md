@@ -99,11 +99,11 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30067](https://github.com//firstcontributions/first-contributions/pull/30067) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
-2. ❌ Closed PR [#30066](https://github.com//firstcontributions/first-contributions/pull/30066) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
-3. 💪 Opened PR [#30066](https://github.com//firstcontributions/first-contributions/pull/30066) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
-4. 🗣 Commented on [#29775](https://github.com//firstcontributions/first-contributions/issues/29775) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
-5. 🎉 Merged PR [#13](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego/pull/13) in [raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego](https://github.com//raman08/Coursera-Data-Structure-And-Algorithms-by-University-of-California-San-Diego)
+1. 💪 Opened PR [#1058](https://github.com//TheAlgorithms/C-Plus-Plus/pull/1058) in [TheAlgorithms/C-Plus-Plus](https://github.com//TheAlgorithms/C-Plus-Plus)
+2. 💪 Opened PR [#30067](https://github.com//firstcontributions/first-contributions/pull/30067) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+3. ❌ Closed PR [#30066](https://github.com//firstcontributions/first-contributions/pull/30066) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+4. 💪 Opened PR [#30066](https://github.com//firstcontributions/first-contributions/pull/30066) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+5. 🗣 Commented on [#29775](https://github.com//firstcontributions/first-contributions/issues/29775) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 </br>
