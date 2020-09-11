@@ -99,11 +99,11 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1060](https://github.com//TheAlgorithms/C-Plus-Plus/pull/1060) in [TheAlgorithms/C-Plus-Plus](https://github.com//TheAlgorithms/C-Plus-Plus)
-2. 🗣 Commented on [#3](https://github.com//shag527/Movy-Matchism/issues/3) in [shag527/Movy-Matchism](https://github.com//shag527/Movy-Matchism)
-3. 💪 Opened PR [#3](https://github.com//shag527/Movy-Matchism/pull/3) in [shag527/Movy-Matchism](https://github.com//shag527/Movy-Matchism)
-4. ❌ Closed PR [#1060](https://github.com//TheAlgorithms/C-Plus-Plus/pull/1060) in [TheAlgorithms/C-Plus-Plus](https://github.com//TheAlgorithms/C-Plus-Plus)
-5. 💪 Opened PR [#1060](https://github.com//TheAlgorithms/C-Plus-Plus/pull/1060) in [TheAlgorithms/C-Plus-Plus](https://github.com//TheAlgorithms/C-Plus-Plus)
+1. 💪 Opened PR [#1](https://github.com//coolpulkit/Algo_Ds_Notes/pull/1) in [coolpulkit/Algo_Ds_Notes](https://github.com//coolpulkit/Algo_Ds_Notes)
+2. ❌ Closed PR [#1060](https://github.com//TheAlgorithms/C-Plus-Plus/pull/1060) in [TheAlgorithms/C-Plus-Plus](https://github.com//TheAlgorithms/C-Plus-Plus)
+3. 🗣 Commented on [#3](https://github.com//shag527/Movy-Matchism/issues/3) in [shag527/Movy-Matchism](https://github.com//shag527/Movy-Matchism)
+4. 💪 Opened PR [#3](https://github.com//shag527/Movy-Matchism/pull/3) in [shag527/Movy-Matchism](https://github.com//shag527/Movy-Matchism)
+5. ❌ Closed PR [#1060](https://github.com//TheAlgorithms/C-Plus-Plus/pull/1060) in [TheAlgorithms/C-Plus-Plus](https://github.com//TheAlgorithms/C-Plus-Plus)
 <!--END_SECTION:activity-->
 
 </br>
