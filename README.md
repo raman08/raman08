@@ -46,7 +46,7 @@
 - 💬 Ask me about anything. I would love to help.
 
 - I am currently working on improving every skills .
-- 🌱 I’m currently learning front-end develoopment.
+- 🌱 I’m currently learning front-end development.
 
 - 🥅 *2020 Goal*s: Contribute more to Open Source projects
 
