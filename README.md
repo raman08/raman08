@@ -38,6 +38,7 @@
 **About me:**
 
 - Hey there, I am **Raman Preet Singh**, a student of the National Insitute of Technology, Hamirpur, :india: India.
+Checkout my website [here](raman08.github.io).
 
 - 😄 *Pronouns:* He / His
 
