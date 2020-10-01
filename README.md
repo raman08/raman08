@@ -22,7 +22,7 @@
 
 
 <!-- **My Current Spotify Music** -->
-[<img  align="right" width="250px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
+[<img  align="right" width="110%" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
 
 </br>
 </br>
