@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
-2. 💪 Opened PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
-3. 🎉 Merged PR [#2](https://github.com//raman08/raman08/pull/2) in [raman08/raman08](https://github.com//raman08/raman08)
-4. 💪 Opened PR [#2](https://github.com//raman08/raman08/pull/2) in [raman08/raman08](https://github.com//raman08/raman08)
-5. 🎉 Merged PR [#1](https://github.com//raman08/raman08/pull/1) in [raman08/raman08](https://github.com//raman08/raman08)
+1. 🎉 Merged PR [#1](https://github.com//raman08/Hacktober20/pull/1) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
+2. 💪 Opened PR [#1](https://github.com//raman08/Hacktober20/pull/1) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
+3. 🎉 Merged PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
+4. 💪 Opened PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
+5. 🎉 Merged PR [#2](https://github.com//raman08/raman08/pull/2) in [raman08/raman08](https://github.com//raman08/raman08)
 <!--END_SECTION:activity-->
 
 </br>
