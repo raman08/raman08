@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com//lavishabhambri/Hacktober20/pull/35) in [lavishabhambri/Hacktober20](https://github.com//lavishabhambri/Hacktober20)
-2. 💪 Opened PR [#1](https://github.com//coolpulkit/Algo_Ds_Notes/pull/1) in [coolpulkit/Algo_Ds_Notes](https://github.com//coolpulkit/Algo_Ds_Notes)
-3. ❌ Closed PR [#1060](https://github.com//TheAlgorithms/C-Plus-Plus/pull/1060) in [TheAlgorithms/C-Plus-Plus](https://github.com//TheAlgorithms/C-Plus-Plus)
-4. 🗣 Commented on [#3](https://github.com//shag527/Movy-Matchism/issues/3) in [shag527/Movy-Matchism](https://github.com//shag527/Movy-Matchism)
-5. 💪 Opened PR [#3](https://github.com//shag527/Movy-Matchism/pull/3) in [shag527/Movy-Matchism](https://github.com//shag527/Movy-Matchism)
+1. 🎉 Merged PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
+2. 💪 Opened PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
+3. 🎉 Merged PR [#2](https://github.com//raman08/raman08/pull/2) in [raman08/raman08](https://github.com//raman08/raman08)
+4. 💪 Opened PR [#2](https://github.com//raman08/raman08/pull/2) in [raman08/raman08](https://github.com//raman08/raman08)
+5. 🎉 Merged PR [#1](https://github.com//raman08/raman08/pull/1) in [raman08/raman08](https://github.com//raman08/raman08)
 <!--END_SECTION:activity-->
 
 </br>
