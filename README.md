@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//raman08/Hacktober20/pull/1) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
-2. 💪 Opened PR [#1](https://github.com//raman08/Hacktober20/pull/1) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
-3. 🎉 Merged PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
-4. 💪 Opened PR [#3](https://github.com//raman08/raman08/pull/3) in [raman08/raman08](https://github.com//raman08/raman08)
-5. 🎉 Merged PR [#2](https://github.com//raman08/raman08/pull/2) in [raman08/raman08](https://github.com//raman08/raman08)
+1. 💪 Opened PR [#40](https://github.com//IEEE-MAIT/Hacktoberfest/pull/40) in [IEEE-MAIT/Hacktoberfest](https://github.com//IEEE-MAIT/Hacktoberfest)
+2. 💪 Opened PR [#45](https://github.com//lavishabhambri/Hacktober20/pull/45) in [lavishabhambri/Hacktober20](https://github.com//lavishabhambri/Hacktober20)
+3. 🎉 Merged PR [#3](https://github.com//raman08/Hacktober20/pull/3) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
+4. 💪 Opened PR [#3](https://github.com//raman08/Hacktober20/pull/3) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
+5. 🎉 Merged PR [#2](https://github.com//raman08/Hacktober20/pull/2) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
 <!--END_SECTION:activity-->
 
 </br>
