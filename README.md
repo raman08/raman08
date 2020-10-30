@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#235](https://github.com//creative-computing-society/creative-computing-society.github.io/pull/235) in [creative-computing-society/creative-computing-society.github.io](https://github.com//creative-computing-society/creative-computing-society.github.io)
-2. 💪 Opened PR [#230](https://github.com//creative-computing-society/Hacktoberfest2020_CCS/pull/230) in [creative-computing-society/Hacktoberfest2020_CCS](https://github.com//creative-computing-society/Hacktoberfest2020_CCS)
-3. 💪 Opened PR [#40](https://github.com//IEEE-MAIT/Hacktoberfest/pull/40) in [IEEE-MAIT/Hacktoberfest](https://github.com//IEEE-MAIT/Hacktoberfest)
-4. 💪 Opened PR [#45](https://github.com//lavishabhambri/Hacktober20/pull/45) in [lavishabhambri/Hacktober20](https://github.com//lavishabhambri/Hacktober20)
-5. 🎉 Merged PR [#3](https://github.com//raman08/Hacktober20/pull/3) in [raman08/Hacktober20](https://github.com//raman08/Hacktober20)
+1. 🎉 Merged PR [#1](https://github.com//raman08/Drum-Kit/pull/1) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
+2. 💪 Opened PR [#235](https://github.com//creative-computing-society/creative-computing-society.github.io/pull/235) in [creative-computing-society/creative-computing-society.github.io](https://github.com//creative-computing-society/creative-computing-society.github.io)
+3. 💪 Opened PR [#230](https://github.com//creative-computing-society/Hacktoberfest2020_CCS/pull/230) in [creative-computing-society/Hacktoberfest2020_CCS](https://github.com//creative-computing-society/Hacktoberfest2020_CCS)
+4. 💪 Opened PR [#40](https://github.com//IEEE-MAIT/Hacktoberfest/pull/40) in [IEEE-MAIT/Hacktoberfest](https://github.com//IEEE-MAIT/Hacktoberfest)
+5. 💪 Opened PR [#45](https://github.com//lavishabhambri/Hacktober20/pull/45) in [lavishabhambri/Hacktober20](https://github.com//lavishabhambri/Hacktober20)
 <!--END_SECTION:activity-->
 
 </br>
