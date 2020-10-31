@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//raman08/Drum-Kit/pull/2) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
-2. 🎉 Merged PR [#1](https://github.com//raman08/Drum-Kit/pull/1) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
+1. 🎉 Merged PR [#1](https://github.com//raman08/Analog-Clock/pull/1) in [raman08/Analog-Clock](https://github.com//raman08/Analog-Clock)
+2. 🎉 Merged PR [#2](https://github.com//raman08/Drum-Kit/pull/2) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
 3. 🎉 Merged PR [#1](https://github.com//raman08/Drum-Kit/pull/1) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
-4. 💪 Opened PR [#235](https://github.com//creative-computing-society/creative-computing-society.github.io/pull/235) in [creative-computing-society/creative-computing-society.github.io](https://github.com//creative-computing-society/creative-computing-society.github.io)
-5. 💪 Opened PR [#230](https://github.com//creative-computing-society/Hacktoberfest2020_CCS/pull/230) in [creative-computing-society/Hacktoberfest2020_CCS](https://github.com//creative-computing-society/Hacktoberfest2020_CCS)
+4. 🎉 Merged PR [#1](https://github.com//raman08/Drum-Kit/pull/1) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
+5. 💪 Opened PR [#235](https://github.com//creative-computing-society/creative-computing-society.github.io/pull/235) in [creative-computing-society/creative-computing-society.github.io](https://github.com//creative-computing-society/creative-computing-society.github.io)
 <!--END_SECTION:activity-->
 
 </br>
