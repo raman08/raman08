@@ -131,6 +131,56 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 419 Contributions in the Year 2020
+ > 
+> 📦 303.5 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 24 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+HTML                     5 hrs               █████████████░░░░░░░░░░░░   51.65% 
+CSS                      3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.91% 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
+
+💻 Operating System: 
+Linux                    9 hrs 41 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/raman08/raman08/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </br>
