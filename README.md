@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//raman08/Flex-Image-Gallary/pull/1) in [raman08/Flex-Image-Gallary](https://github.com//raman08/Flex-Image-Gallary)
-2. 🎉 Merged PR [#2](https://github.com//raman08/Statistical-Data-Analysis/pull/2) in [raman08/Statistical-Data-Analysis](https://github.com//raman08/Statistical-Data-Analysis)
-3. 🎉 Merged PR [#1](https://github.com//raman08/Analog-Clock/pull/1) in [raman08/Analog-Clock](https://github.com//raman08/Analog-Clock)
-4. 🎉 Merged PR [#2](https://github.com//raman08/Drum-Kit/pull/2) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
-5. 🎉 Merged PR [#1](https://github.com//raman08/Drum-Kit/pull/1) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
+1. ❗️ Opened issue [#129](https://github.com//anmol098/waka-readme-stats/issues/129) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+2. 🎉 Merged PR [#1](https://github.com//raman08/Flex-Image-Gallary/pull/1) in [raman08/Flex-Image-Gallary](https://github.com//raman08/Flex-Image-Gallary)
+3. 🎉 Merged PR [#2](https://github.com//raman08/Statistical-Data-Analysis/pull/2) in [raman08/Statistical-Data-Analysis](https://github.com//raman08/Statistical-Data-Analysis)
+4. 🎉 Merged PR [#1](https://github.com//raman08/Analog-Clock/pull/1) in [raman08/Analog-Clock](https://github.com//raman08/Analog-Clock)
+5. 🎉 Merged PR [#2](https://github.com//raman08/Drum-Kit/pull/2) in [raman08/Drum-Kit](https://github.com//raman08/Drum-Kit)
 <!--END_SECTION:activity-->
 
 </br>
