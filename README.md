@@ -131,7 +131,7 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -184,7 +184,7 @@ C++                      2 repos             ███░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/raman08/raman08/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/raman08/raman08/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
