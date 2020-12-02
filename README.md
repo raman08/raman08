@@ -135,6 +135,8 @@ Checkout my website [My Site].
 
 **🐱 My Github Data** 
 
+> 🏆 427 Contributions in the Year 2020
+ > 
 > 📦 318.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
