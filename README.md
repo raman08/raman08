@@ -100,10 +100,10 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//ritikalohia/HOVER1-/issues/1) in [ritikalohia/HOVER1-](https://github.com//ritikalohia/HOVER1-)
-2. 🎉 Merged PR [#1](https://github.com//raman08/Glorius-theme/pull/1) in [raman08/Glorius-theme](https://github.com//raman08/Glorius-theme)
-3. ❗️ Opened issue [#129](https://github.com//anmol098/waka-readme-stats/issues/129) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com//raman08/Flex-Image-Gallary/pull/1) in [raman08/Flex-Image-Gallary](https://github.com//raman08/Flex-Image-Gallary)
+1. 🗣 Commented on [#1](https://github.com//ritikalohia/HOVER1-/issues/1) in [ritikalohia/HOVER1-](https://github.com//ritikalohia/HOVER1-)
+2. ❗️ Opened issue [#1](https://github.com//ritikalohia/HOVER1-/issues/1) in [ritikalohia/HOVER1-](https://github.com//ritikalohia/HOVER1-)
+3. 🎉 Merged PR [#1](https://github.com//raman08/Glorius-theme/pull/1) in [raman08/Glorius-theme](https://github.com//raman08/Glorius-theme)
+4. ❗️ Opened issue [#129](https://github.com//anmol098/waka-readme-stats/issues/129) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
 5. 🎉 Merged PR [#1](https://github.com//raman08/Analog-Clock/pull/1) in [raman08/Analog-Clock](https://github.com//raman08/Analog-Clock)
 <!--END_SECTION:activity-->
 
