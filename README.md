@@ -170,14 +170,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Shell** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79%
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Shell                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 ```
 
