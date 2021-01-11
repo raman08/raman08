@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
+1. 🗣 Commented on [#57](https://github.com//garg3133/JagratiWebApp/issues/57) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
 2. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
-3. ❗️ Opened issue [#309](https://github.com//smaranjitghose/doc2pen/issues/309) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
-4. 🗣 Commented on [#1](https://github.com//ritikalohia/HOVER1-/issues/1) in [ritikalohia/HOVER1-](https://github.com//ritikalohia/HOVER1-)
-5. ❗️ Opened issue [#1](https://github.com//ritikalohia/HOVER1-/issues/1) in [ritikalohia/HOVER1-](https://github.com//ritikalohia/HOVER1-)
+3. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
+4. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
+5. ❗️ Opened issue [#309](https://github.com//smaranjitghose/doc2pen/issues/309) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
 <!--END_SECTION:activity-->
 
 </br>
