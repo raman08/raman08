@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com//garg3133/JagratiWebApp/issues/57) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-2. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
+1. 🗣 Commented on [#31](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/31) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+2. 🗣 Commented on [#57](https://github.com//garg3133/JagratiWebApp/issues/57) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
 3. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
 4. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
-5. ❗️ Opened issue [#309](https://github.com//smaranjitghose/doc2pen/issues/309) in [smaranjitghose/doc2pen](https://github.com//smaranjitghose/doc2pen)
+5. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
 <!--END_SECTION:activity-->
 
 </br>
