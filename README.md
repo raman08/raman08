@@ -135,13 +135,13 @@ Checkout my website [My Site].
 
 **🐱 My Github Data** 
 
-> 🏆 5 Contributions in the Year 2021
+> 🏆 6 Contributions in the Year 2021
  > 
 > 📦 362.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
