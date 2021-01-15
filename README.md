@@ -100,10 +100,10 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/31) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
-2. 🗣 Commented on [#472](https://github.com//smaranjitghose/awesome-portfolio-websites/issues/472) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
-3. 💪 Opened PR [#64](https://github.com//garg3133/JagratiWebApp/pull/64) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-4. 💪 Opened PR [#19](https://github.com//kaustubhgupta/PortfolioFy/pull/19) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
+1. 🗣 Commented on [#453](https://github.com//smaranjitghose/awesome-portfolio-websites/issues/453) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
+2. 💪 Opened PR [#47](https://github.com//smaranjitghose/img_ai_app_boilerplate/pull/47) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+3. 🗣 Commented on [#46](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/46) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+4. 💪 Opened PR [#46](https://github.com//smaranjitghose/img_ai_app_boilerplate/pull/46) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
 5. 🗣 Commented on [#31](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/31) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
 <!--END_SECTION:activity-->
 
