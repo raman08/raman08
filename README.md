@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/49) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
-2. 🗣 Commented on [#48](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/48) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
-3. 💪 Opened PR [#48](https://github.com//smaranjitghose/img_ai_app_boilerplate/pull/48) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
-4. 🗣 Commented on [#46](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/46) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
-5. 🗣 Commented on [#47](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/47) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+1. 🗣 Commented on [#17](https://github.com//Tejas1510/Hacking-Scripts/issues/17) in [Tejas1510/Hacking-Scripts](https://github.com//Tejas1510/Hacking-Scripts)
+2. ❗️ Opened issue [#49](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/49) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+3. 🗣 Commented on [#48](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/48) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+4. 💪 Opened PR [#48](https://github.com//smaranjitghose/img_ai_app_boilerplate/pull/48) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+5. 🗣 Commented on [#46](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/46) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
 <!--END_SECTION:activity-->
 
 </br>
