@@ -135,9 +135,9 @@ Checkout my website [My Site].
 
 **🐱 My Github Data** 
 
-> 🏆 13 Contributions in the Year 2021
+> 🏆 15 Contributions in the Year 2021
  > 
-> 📦 359.3 kB Used in Github's Storage 
+> 📦 359.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
