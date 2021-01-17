@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com//kaustubhgupta/PortfolioFy/issues/14) in [kaustubhgupta/PortfolioFy](https://github.com//kaustubhgupta/PortfolioFy)
-2. 🗣 Commented on [#64](https://github.com//garg3133/JagratiWebApp/issues/64) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-3. 🗣 Commented on [#64](https://github.com//garg3133/JagratiWebApp/issues/64) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-4. 🗣 Commented on [#17](https://github.com//Tejas1510/Hacking-Scripts/issues/17) in [Tejas1510/Hacking-Scripts](https://github.com//Tejas1510/Hacking-Scripts)
-5. ❗️ Opened issue [#49](https://github.com//smaranjitghose/img_ai_app_boilerplate/issues/49) in [smaranjitghose/img_ai_app_boilerplate](https://github.com//smaranjitghose/img_ai_app_boilerplate)
+1. 🗣 Commented on [#453](https://github.com//smaranjitghose/awesome-portfolio-websites/issues/453) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
+2. 🗣 Commented on [#69](https://github.com//garg3133/JagratiWebApp/issues/69) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
+3. 💪 Opened PR [#69](https://github.com//garg3133/JagratiWebApp/pull/69) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
+4. ❌ Closed PR [#64](https://github.com//garg3133/JagratiWebApp/pull/64) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
+5. 💪 Opened PR [#68](https://github.com//garg3133/JagratiWebApp/pull/68) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
 <!--END_SECTION:activity-->
 
 </br>
