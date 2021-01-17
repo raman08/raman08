@@ -101,10 +101,10 @@ Checkout my website [My Site].
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#453](https://github.com//smaranjitghose/awesome-portfolio-websites/issues/453) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
-2. 🗣 Commented on [#69](https://github.com//garg3133/JagratiWebApp/issues/69) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-3. 💪 Opened PR [#69](https://github.com//garg3133/JagratiWebApp/pull/69) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-4. ❌ Closed PR [#64](https://github.com//garg3133/JagratiWebApp/pull/64) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-5. 💪 Opened PR [#68](https://github.com//garg3133/JagratiWebApp/pull/68) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
+2. 💪 Opened PR [#480](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/480) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
+3. 💪 Opened PR [#479](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/479) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
+4. 🎉 Merged PR [#1](https://github.com//raman08/awesome-portfolio-websites/pull/1) in [raman08/awesome-portfolio-websites](https://github.com//raman08/awesome-portfolio-websites)
+5. 🎉 Merged PR [#2](https://github.com//raman08/awesome-portfolio-websites/pull/2) in [raman08/awesome-portfolio-websites](https://github.com//raman08/awesome-portfolio-websites)
 <!--END_SECTION:activity-->
 
 </br>
