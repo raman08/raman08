@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#496](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/496) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
-2. 💪 Opened PR [#496](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/496) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
-3. 🎉 Merged PR [#5](https://github.com//raman08/awesome-portfolio-websites/pull/5) in [raman08/awesome-portfolio-websites](https://github.com//raman08/awesome-portfolio-websites)
-4. 💪 Opened PR [#5](https://github.com//raman08/awesome-portfolio-websites/pull/5) in [raman08/awesome-portfolio-websites](https://github.com//raman08/awesome-portfolio-websites)
-5. 🗣 Commented on [#480](https://github.com//smaranjitghose/awesome-portfolio-websites/issues/480) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
+1. 🗣 Commented on [#69](https://github.com//garg3133/JagratiWebApp/issues/69) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
+2. 🎉 Merged PR [#2](https://github.com//raman08/img_ai_app_boilerplate/pull/2) in [raman08/img_ai_app_boilerplate](https://github.com//raman08/img_ai_app_boilerplate)
+3. 💪 Opened PR [#2](https://github.com//raman08/img_ai_app_boilerplate/pull/2) in [raman08/img_ai_app_boilerplate](https://github.com//raman08/img_ai_app_boilerplate)
+4. 💪 Opened PR [#497](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/497) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
+5. ❌ Closed PR [#496](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/496) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
 <!--END_SECTION:activity-->
 
 </br>
