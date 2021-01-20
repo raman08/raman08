@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com//garg3133/JagratiWebApp/issues/69) in [garg3133/JagratiWebApp](https://github.com//garg3133/JagratiWebApp)
-2. 🎉 Merged PR [#2](https://github.com//raman08/img_ai_app_boilerplate/pull/2) in [raman08/img_ai_app_boilerplate](https://github.com//raman08/img_ai_app_boilerplate)
-3. 💪 Opened PR [#2](https://github.com//raman08/img_ai_app_boilerplate/pull/2) in [raman08/img_ai_app_boilerplate](https://github.com//raman08/img_ai_app_boilerplate)
-4. 💪 Opened PR [#497](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/497) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
-5. ❌ Closed PR [#496](https://github.com//smaranjitghose/awesome-portfolio-websites/pull/496) in [smaranjitghose/awesome-portfolio-websites](https://github.com//smaranjitghose/awesome-portfolio-websites)
+1. ❌ Closed PR [#230](https://github.com//creative-computing-society/Hacktoberfest2020_CCS/pull/230) in [creative-computing-society/Hacktoberfest2020_CCS](https://github.com//creative-computing-society/Hacktoberfest2020_CCS)
+2. ❌ Closed PR [#209](https://github.com//appteam-nith/HacktoberFest2k19/pull/209) in [appteam-nith/HacktoberFest2k19](https://github.com//appteam-nith/HacktoberFest2k19)
+3. ❌ Closed PR [#175](https://github.com//appteam-nith/HacktoberFest2k19/pull/175) in [appteam-nith/HacktoberFest2k19](https://github.com//appteam-nith/HacktoberFest2k19)
+4. ❌ Closed PR [#173](https://github.com//appteam-nith/HacktoberFest2k19/pull/173) in [appteam-nith/HacktoberFest2k19](https://github.com//appteam-nith/HacktoberFest2k19)
+5. ❌ Closed PR [#172](https://github.com//appteam-nith/HacktoberFest2k19/pull/172) in [appteam-nith/HacktoberFest2k19](https://github.com//appteam-nith/HacktoberFest2k19)
 <!--END_SECTION:activity-->
 
 </br>
