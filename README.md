@@ -55,7 +55,7 @@ Checkout my website [My Site].
 
 - I have a passion for learning and sharing my knowledge with others a public as possible.
 
-- I currently use [**sublime**](https://www.sublimetext.com/) and [**vscode**](https://code.visualstudio.com/) as my text editores and [**pop-os**](https://pop.system76.com/) as my workstaton.
+- I currently use [**vscode**](https://code.visualstudio.com/) as my text editore and [**ubuntu**](https://ubuntu.com/) as my workstaton.
 
 ---
 
