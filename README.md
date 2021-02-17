@@ -122,6 +122,11 @@ Checkout my website [My Site].
 <img align="center" alt="Raman08's Top Language" src="https://github-readme-stats.raman08.vercel.app/api/top-langs/?username=raman08&layout=compact&theme=tokyonight" />
 
 </br>
+</br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman08&" alt="Raman Streaks" /></p>
+
+</br>
 
 </details>
 
@@ -197,8 +202,6 @@ CSS                      3 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman08&" alt="Raman Streaks" /></p>
 
 </details>
 
