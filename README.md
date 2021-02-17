@@ -67,7 +67,7 @@ Checkout my website [My Site].
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=082D1F)
-![Nodejs](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js&logoColor=84BB3E)
+![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=84BB3E)
 
 
 **Competitive Programming Profile**
