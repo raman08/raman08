@@ -46,15 +46,7 @@ Checkout my website [My Site].
 
 - 💬 Ask me about anything. I would love to help.
 
-- I am currently working on improving every skills.
-
 - 🌱 I’m currently learning nodejs.
-
-- 🥅 *2020 Goal*s: Contribute more to Open Source projects
-
-- I love mathematics and cryptographic mysteries
-
-- I have a passion for learning and sharing my knowledge with others a public as possible.
 
 - I currently use [**vscode**](https://code.visualstudio.com/) as my text editore and [**ubuntu**](https://ubuntu.com/) as my workstaton.
 
@@ -65,13 +57,17 @@ Checkout my website [My Site].
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
+
 
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=082D1F)
+![Nodejs](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js&logoColor=84BB3E)
 
 
 **Competitive Programming Profile**
