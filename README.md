@@ -46,8 +46,9 @@ Checkout my website [My Site].
 
 - 💬 Ask me about anything. I would love to help.
 
-- I am currently working on improving every skills .
-- 🌱 I’m currently learning front-end development.
+- I am currently working on improving every skills.
+
+- 🌱 I’m currently learning nodejs.
 
 - 🥅 *2020 Goal*s: Contribute more to Open Source projects
 
@@ -196,6 +197,8 @@ CSS                      3 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman08&" alt="Raman Streaks" /></p>
 
 </details>
 
