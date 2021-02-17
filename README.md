@@ -58,6 +58,8 @@ Checkout my website [My Site].
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
 
 
