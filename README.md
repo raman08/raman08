@@ -61,6 +61,7 @@ Checkout my website [My Site].
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
+![Pug](https://img.shields.io/badge/-Pug-000000?style=flat&logo=pug)
 
 
 **Some of the technologies I have worked with**
