@@ -99,11 +99,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
-2. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
-3. ❌ Closed PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
-4. 💪 Opened PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
-5. ❗️ Opened issue [#13903](https://github.com//brave/brave-browser/issues/13903) in [brave/brave-browser](https://github.com//brave/brave-browser)
+1. 💪 Opened PR [#1](https://github.com//Anshit01/online-class-automation/pull/1) in [Anshit01/online-class-automation](https://github.com//Anshit01/online-class-automation)
+2. 🎉 Merged PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
+3. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
+4. ❌ Closed PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
+5. 💪 Opened PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
 <!--END_SECTION:activity-->
 
 </br>
