@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//Anshit01/online-class-automation/issues/1) in [Anshit01/online-class-automation](https://github.com//Anshit01/online-class-automation)
-2. 💪 Opened PR [#1](https://github.com//Anshit01/online-class-automation/pull/1) in [Anshit01/online-class-automation](https://github.com//Anshit01/online-class-automation)
-3. 🎉 Merged PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
-4. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
-5. ❌ Closed PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
+1. 🎉 Merged PR [#104](https://github.com//Teamexe/Team.EXE-Website/pull/104) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+2. 💪 Opened PR [#104](https://github.com//Teamexe/Team.EXE-Website/pull/104) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+3. ❌ Closed PR [#103](https://github.com//Teamexe/Team.EXE-Website/pull/103) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+4. 💪 Opened PR [#103](https://github.com//Teamexe/Team.EXE-Website/pull/103) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+5. 🗣 Commented on [#1](https://github.com//Anshit01/online-class-automation/issues/1) in [Anshit01/online-class-automation](https://github.com//Anshit01/online-class-automation)
 <!--END_SECTION:activity-->
 
 </br>
