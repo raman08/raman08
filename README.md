@@ -100,11 +100,11 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com//Teamexe/Team.EXE-Website/pull/109) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-2. 💪 Opened PR [#109](https://github.com//Teamexe/Team.EXE-Website/pull/109) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-3. 🎉 Merged PR [#108](https://github.com//Teamexe/Team.EXE-Website/pull/108) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-4. 💪 Opened PR [#108](https://github.com//Teamexe/Team.EXE-Website/pull/108) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
-5. 🎉 Merged PR [#104](https://github.com//Teamexe/Team.EXE-Website/pull/104) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+1. 🎉 Merged PR [#110](https://github.com//Teamexe/Team.EXE-Website/pull/110) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+2. 💪 Opened PR [#110](https://github.com//Teamexe/Team.EXE-Website/pull/110) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+3. 🎉 Merged PR [#109](https://github.com//Teamexe/Team.EXE-Website/pull/109) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+4. 💪 Opened PR [#109](https://github.com//Teamexe/Team.EXE-Website/pull/109) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
+5. 🎉 Merged PR [#108](https://github.com//Teamexe/Team.EXE-Website/pull/108) in [Teamexe/Team.EXE-Website](https://github.com//Teamexe/Team.EXE-Website)
 <!--END_SECTION:activity-->
 
 </br>
