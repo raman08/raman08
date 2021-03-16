@@ -165,13 +165,13 @@ Checkout my website [My Site].
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               36 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Node_Courses             36 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    36 mins             █████████████████████████   100.0%
 
 ```
 
