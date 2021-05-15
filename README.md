@@ -165,14 +165,13 @@ Checkout my website [My Site].
 
 ```text
 💬 Programming Languages: 
-Pug                      16 mins             ████████████░░░░░░░░░░░░░   50.49% 
-JavaScript               15 mins             ████████████░░░░░░░░░░░░░   49.51%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Node_Courses             32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
