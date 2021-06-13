@@ -100,7 +100,7 @@ Checkout my website [My Site].
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//Anshit01/online-class-automation/issues/1) in [Anshit01/online-class-automation](https://github.com//Anshit01/online-class-automation)
+1. ❌ Closed PR [#1](https://github.com//raman08/My-Congiguraton-Files/pull/1) in [raman08/My-Congiguraton-Files](https://github.com//raman08/My-Congiguraton-Files)
 2. 💪 Opened PR [#1](https://github.com//Anshit01/online-class-automation/pull/1) in [Anshit01/online-class-automation](https://github.com//Anshit01/online-class-automation)
 3. 🎉 Merged PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
 4. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
