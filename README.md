@@ -165,17 +165,13 @@ Checkout my website [My Site].
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 23 mins       ██████████████████████░░░   89.35% 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Deno                     3 hrs 47 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 47 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -196,7 +192,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/raman08/raman08/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2021
+ Last Updated on 17/06/2021
 <!--END_SECTION:waka-->
 
 </br>
