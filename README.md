@@ -60,24 +60,24 @@
 
 **Languages I have used**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![Pug](https://img.shields.io/badge/-Pug-000000?style=flat&logo=pug)
+![C](https://img.shields.io/badge/C-000000?logo=C)
+![C++](https://img.shields.io/badge/C++-000000?logo=C%2b%2b)
+![Python](https://img.shields.io/badge/Python-000000?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-000000?logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-000000?logo=css3)
+![Pug](https://img.shields.io/badge/Pug-000000?logo=pug)
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=082D1F)
-![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=84BB3E)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=84BB3E)
-![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000000?logo=git)
+![GitHub](https://img.shields.io/badge/Github-000000?logo=github)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
+![Django](https://img.shields.io/badge/Django-000000?logo=django)
+![Nodejs](https://img.shields.io/badge/Nodejs-000000?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb)
 
 ---
 
