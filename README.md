@@ -12,22 +12,22 @@
 
 <!-- Github  -->
 
-[<img align="left" title="Github" alt="Raman | Github" height="24px" src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=ffffff" />][github] &ensp;
+[<img align="left" title="Github" alt="Raman | Github" height="24px" src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=ffffff" />][github] &nbsp;&nbsp;&nbsp;
 
 <!-- Linkdin  -->
 
 [<img align="left" title="Linkedin" alt="Raman | LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" />][linkedin]
-&ensp;
+&nbsp;&nbsp;&nbsp;
 
 <!-- Twitter -->
 
 [<img align="left" title="Twitter" alt="Raman | Twitter" height="24px" src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=0077B5" />][twitter]
-&ensp;
+&nbsp;&nbsp;&nbsp;
 
 <!-- Instagram -->
 
 [<img align="left" title="Instagram" alt="Raman | Instagram" height="24px" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=0077B5" />][instagram]
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <!-- **My Current Spotify Music** -->
 
