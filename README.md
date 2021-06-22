@@ -12,29 +12,27 @@
 
 <!-- Github  -->
 
-[<img align="left" title="Github" alt="Raman | Github" height="24px" src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=ffffff" />][github] &nbsp;&nbsp;&nbsp;
+[<img align="left" title="Github" alt="Raman | Github" height="24px" src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=ffffff" />][github]
 
 <!-- Linkdin  -->
 
-[<img align="left" title="Linkedin" alt="Raman | LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" />][linkedin]
-&nbsp;&nbsp;&nbsp;
+[<img align="left" title="Linkedin" alt="Raman | LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=ffffff" />][linkedin]
 
 <!-- Twitter -->
 
-[<img align="left" title="Twitter" alt="Raman | Twitter" height="24px" src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=0077B5" />][twitter]
-&nbsp;&nbsp;&nbsp;
+[<img align="left" title="Twitter" alt="Raman | Twitter" height="24px" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff" />][twitter]
 
 <!-- Instagram -->
 
-[<img align="left" title="Instagram" alt="Raman | Instagram" height="24px" src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=0077B5" />][instagram]
-&nbsp;&nbsp;&nbsp;
+[<img align="left" title="Instagram" alt="Raman | Instagram" height="24px" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=ffffff" />][instagram]
+
+</br>
+</br>
 
 <!-- **My Current Spotify Music** -->
 
 [<img  align="right" width="250px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
 
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -54,23 +52,20 @@
 
 -   💬 Ask me about anything. I would love to help.
 
--   🌱 I’m currently learning nodejs.
+-   🌱 I’m currently learning **nodejs** and **react**.
 
--   I currently use [**vscode**](https://code.visualstudio.com/) as my text editore and [**ubuntu**](https://ubuntu.com/) as my workstaton.
+</br>
 
 ---
 
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-&nbsp;
-
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
 ![Pug](https://img.shields.io/badge/-Pug-000000?style=flat&logo=pug)
 
 **Some of the technologies I have worked with**
@@ -80,30 +75,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=082D1F)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=84BB3E)
-
-**Competitive Programming Profile**
-
-<!-- Coursera -->
-
-[<img align="left" title='Coursera' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/coursera.svg" />][coursera]
-
-<!-- HackerRank -->
-
-[<img align="left" title = "Hackerrank" alt="Raman's hackerrank" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />][hackerrank]
-
-<!-- GeekforGeek -->
-
-[<img align="left" title='Geeksforgeeks' alt="Raman's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />][geekforgeek]
-
-<!-- Codeforces -->
-
-[<img align="left" title='Codeforces' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-
-<!-- CodeChef -->
-
-[<img align="left" title='Codechef' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-
-</br>
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=84BB3E)
+![MySQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
 ---
 
@@ -236,7 +210,7 @@ Last Updated on 22/06/2021
 [codechef]: https://www.codechef.com/users/raman08
 [coursera]: https://www.coursera.org/user/c80cda9e74687f96f4db052554459549
 [spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
-[my site]: https://raman08.github.io
+[my site]: https://ramanpreet.vercel.app
 
 </br>
 
