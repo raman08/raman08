@@ -88,8 +88,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/raman08/My-Congiguraton-Files/pull/1) in [raman08/My-Congiguraton-Files](https://github.com/raman08/My-Congiguraton-Files)
-2. 💪 Opened PR [#1](https://github.com//Anshit01/online-class-automation/pull/1) in [Anshit01/online-class-automation](https://github.com//Anshit01/online-class-automation)
+1. 🎉 Merged PR [#1](https://github.com/raman08/Online-Retail-Store/pull/1) in [raman08/Online-Retail-Store](https://github.com/raman08/Online-Retail-Store)
+2. ❌ Closed PR [#1](https://github.com/raman08/My-Congiguraton-Files/pull/1) in [raman08/My-Congiguraton-Files](https://github.com/raman08/My-Congiguraton-Files)
 3. 🎉 Merged PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
 4. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
 5. ❌ Closed PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
