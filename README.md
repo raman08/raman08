@@ -88,8 +88,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/raman08/dirtycow.github.io/pull/1) in [raman08/dirtycow.github.io](https://github.com/raman08/dirtycow.github.io)
-2. 🎉 Merged PR [#1](https://github.com/raman08/Online-Retail-Store/pull/1) in [raman08/Online-Retail-Store](https://github.com/raman08/Online-Retail-Store)
+1. ❌ Closed PR [#2](https://github.com/raman08/Analog-Clock/pull/2) in [raman08/Analog-Clock](https://github.com/raman08/Analog-Clock)
+2. 🗣 Commented on [#2](https://github.com/raman08/Analog-Clock/issues/2) in [raman08/Analog-Clock](https://github.com/raman08/Analog-Clock)
 3. 🎉 Merged PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
 4. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
 5. ❌ Closed PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
