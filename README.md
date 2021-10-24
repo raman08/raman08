@@ -129,7 +129,7 @@
 
 > 🏆 689 Contributions in the Year 2021
  > 
-> 📦 270.3 kB Used in GitHub's Storage 
+> 📦 270.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -152,13 +152,13 @@
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 8 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Competitive_Programming  1 hr 8 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 8 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -179,7 +179,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/raman08/raman08/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
 
 </br>
