@@ -152,13 +152,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               56 mins             █████████████████████████   99.92% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fashion-app              56 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    56 mins             █████████████████████████   100.0%
 
 ```
 
@@ -179,7 +180,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/raman08/raman08/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/10/2021
+ Last Updated on 30/10/2021
 <!--END_SECTION:waka-->
 
 </br>
