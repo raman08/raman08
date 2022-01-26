@@ -88,7 +88,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/raman08/socket-test-app/pull/1) in [raman08/socket-test-app](https://github.com/raman08/socket-test-app)
+1. 🎉 Merged PR [#1](https://github.com/raman08/virtial-classroom/pull/1) in [raman08/virtial-classroom](https://github.com/raman08/virtial-classroom)
 2. ❌ Closed PR [#2](https://github.com/raman08/Analog-Clock/pull/2) in [raman08/Analog-Clock](https://github.com/raman08/Analog-Clock)
 3. 🗣 Commented on [#2](https://github.com/raman08/Analog-Clock/issues/2) in [raman08/Analog-Clock](https://github.com/raman08/Analog-Clock)
 4. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
