@@ -88,8 +88,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/raman08/virtial-classroom/pull/1) in [raman08/virtial-classroom](https://github.com/raman08/virtial-classroom)
-2. ❌ Closed PR [#2](https://github.com/raman08/Analog-Clock/pull/2) in [raman08/Analog-Clock](https://github.com/raman08/Analog-Clock)
+1. ❗️ Opened issue [#67](https://github.com/ianding1/leetcode.vim/issues/67) in [ianding1/leetcode.vim](https://github.com/ianding1/leetcode.vim)
+2. 🎉 Merged PR [#1](https://github.com/raman08/virtial-classroom/pull/1) in [raman08/virtial-classroom](https://github.com/raman08/virtial-classroom)
 3. 🗣 Commented on [#2](https://github.com/raman08/Analog-Clock/issues/2) in [raman08/Analog-Clock](https://github.com/raman08/Analog-Clock)
 4. 💪 Opened PR [#2](https://github.com//CSEC-NITH/git-workshop/pull/2) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
 5. ❌ Closed PR [#1](https://github.com//CSEC-NITH/git-workshop/pull/1) in [CSEC-NITH/git-workshop](https://github.com//CSEC-NITH/git-workshop)
